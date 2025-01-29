@@ -52,7 +52,7 @@ exports.sendNotification = functions.firestore
                 token: fcmToken,
                 notification: payload,
                 data: {
-                    authorImageUrl: author.imageUrl,
+                    authorImageUrl: author.imageUrl ?? "",
                     roomId: event.params.roomId,
                 }
             };
