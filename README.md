@@ -4,7 +4,7 @@
 - [Description](#description)
   - [Useful Links](#useful-links)
   - [What is Foody](#what-is-foody)
-  - [What is Foody Cloud Functions](#what-is-foody-customer-app)
+  - [What is Foody Cloud Functions](#what-is-foody-cloud-functions)
  
 # Description
 
